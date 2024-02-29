@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my first Java project.**
 
-- 🌱 I’m currently learning **Java.**
+- 🌱 I’m currently learning **GO.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
