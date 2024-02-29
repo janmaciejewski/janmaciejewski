@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janmaciejewski&label=Profile%20views&color=0e75b6&style=flat" alt="janmaciejewski" /> </p>
 
-- 🔭 I’m currently working on **my first Java project.**
+- 🔭 I’m currently working on **my first GO project.**
 
 - 🌱 I’m currently learning **GO.**
 
